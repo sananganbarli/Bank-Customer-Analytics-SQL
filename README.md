@@ -1,8 +1,8 @@
 # Bank-Customer-Analytics-SQL
 A comprehensive SQL project analyzing banking transaction history, customer account balances, active loans, and deposit trends using advanced JOINs, aggregation, and CTEs.
-# 🏦 Bank Customer Analytics & SQL Query Portfolio
+# Bank Customer Analytics & SQL Query Portfolio
 
-## 📌 Project Overview
+## Project Overview
 This repository contains a structured set of **advanced SQL queries** designed to perform analytical tasks on a relational banking database. The queries extract key business insights regarding customer behavior, account balance fluctuations, loan risks, deposit trends, and transaction patterns over specific time periods (3 months, 6 months, and 1 year).
 
 ---
