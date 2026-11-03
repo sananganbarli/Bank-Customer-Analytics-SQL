@@ -25,7 +25,4 @@ This repository contains a structured set of **advanced SQL queries** designed t
 6. **Peak Monthly Performance:** Identifying most active account days and highest balance growth months using CTEs.
 7. **Credit & Loan Duration Tracking:** Analyzing maximum active loan durations and high-value credit applicants.
 
----
 
-## Repository Structure
-* `bank_customer_analytics.sql` – Complete SQL script containing all annotated database queries.
